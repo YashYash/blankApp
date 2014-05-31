@@ -1,0 +1,10 @@
+<h1> {{word}}</h1>
+
+<form ng-submit="login()">
+<label for="name">Email</label>
+<input type="text" name="email" id="login-email" ng-model="auth.username" placeholder="Email" required/>
+<label for="password">Password</label>
+<input type="password" name="password" id="login-password" ng-model="auth.password" placeholder="Password" requierd/>
+<input type="submit" value="Login"/>
+</form>
+

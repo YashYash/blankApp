@@ -1,0 +1,20 @@
+2014-05-23 19:21:51.780 HelloCordova[9337:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-23 19:21:52.410 HelloCordova[9337:70b] Unlimited access to network resources
+2014-05-23 19:21:56.076 HelloCordova[9337:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-23 19:21:56.076 HelloCordova[9337:70b] [CDVTimer][statusbar] 0.761986ms
+2014-05-23 19:21:56.077 HelloCordova[9337:70b] [CDVTimer][TotalPluginStartup] 1.376987ms
+2014-05-23 19:21:57.066 HelloCordova[9337:70b] Resetting plugins due to page load.
+2014-05-23 19:21:58.752 HelloCordova[9347:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-23 19:21:58.762 HelloCordova[9347:70b] Unlimited access to network resources
+2014-05-23 19:21:58.783 HelloCordova[9347:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-23 19:21:58.784 HelloCordova[9347:70b] [CDVTimer][statusbar] 0.556946ms
+2014-05-23 19:21:58.784 HelloCordova[9347:70b] [CDVTimer][TotalPluginStartup] 1.066983ms
+2014-05-23 19:21:58.832 HelloCordova[9347:70b] Resetting plugins due to page load.
+2014-05-23 19:22:00.813 HelloCordova[9347:70b] Finished load of: file:///Users/yash/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/13A452D7-C200-4EE3-98E6-1481CA7E91FA/HelloCordova.app/www/index.html#/
+2014-05-23 19:22:12.289 HelloCordova[9519:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-23 19:22:12.301 HelloCordova[9519:70b] Unlimited access to network resources
+2014-05-23 19:22:12.330 HelloCordova[9519:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-23 19:22:12.331 HelloCordova[9519:70b] [CDVTimer][statusbar] 0.663996ms
+2014-05-23 19:22:12.331 HelloCordova[9519:70b] [CDVTimer][TotalPluginStartup] 1.230001ms
+2014-05-23 19:22:12.453 HelloCordova[9519:70b] Resetting plugins due to page load.
+2014-05-23 19:22:13.265 HelloCordova[9519:70b] Finished load of: file:///Users/yash/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/13A452D7-C200-4EE3-98E6-1481CA7E91FA/HelloCordova.app/www/index.html#/
